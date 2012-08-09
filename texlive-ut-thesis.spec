@@ -1,12 +1,12 @@
-# revision 15878
+# revision 26793
 # category Package
 # catalog-ctan /macros/latex/contrib/ut-thesis
-# catalog-date 2008-10-05 10:59:55 +0200
+# catalog-date 2012-06-01 19:19:53 +0200
 # catalog-license lppl
-# catalog-version 1.8
+# catalog-version 2.0
 Name:		texlive-ut-thesis
-Version:	1.8
-Release:	2
+Version:	2.0
+Release:	1
 Summary:	University of Toronto thesis style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ut-thesis
