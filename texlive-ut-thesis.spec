@@ -46,3 +46,20 @@ the class, is provided.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 2.0-1
++ Revision: 813171
+- Update to latest release.
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.8-2
++ Revision: 757334
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.8-1
++ Revision: 719867
+- texlive-ut-thesis
+- texlive-ut-thesis
+- texlive-ut-thesis
+
