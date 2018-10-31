@@ -6,7 +6,7 @@
 # catalog-version 2.0
 Name:		texlive-ut-thesis
 Version:	2.1
-Release:	1
+Release:	2
 Summary:	University of Toronto thesis style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ut-thesis
