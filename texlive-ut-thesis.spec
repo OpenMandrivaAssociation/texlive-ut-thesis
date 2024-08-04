@@ -1,5 +1,5 @@
 Name:		texlive-ut-thesis
-Version:	65767
+Version:	71906
 Release:	1
 Summary:	University of Toronto thesis style
 Group:		Publishing
